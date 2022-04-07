@@ -1,0 +1,18 @@
+.mainbox{
+    background-color: rgb(126, 179, 201);
+    width:610px;
+    border: 1px dotted black;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    padding: 10px;
+    margin: 30px;
+
+}
+
+.footer{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;   
+
+}
