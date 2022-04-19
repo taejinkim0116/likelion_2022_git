@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://www.codelion.net/class/TGl2ZUNvZGluZ1N0ZXBOb2RlOjNnZDk= -->
+<html lang="en" class="h-100 notranslate" translate="no"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="./facebook_files/analytics.js.다운로드"></script><script src="./facebook_files/372844676885674" async=""></script><script async="" src="./facebook_files/fbevents.js.다운로드"></script><script type="text/javascript" async="" src="./facebook_files/f.txt"></script><script type="text/javascript" async="" src="./facebook_files/hotjar-1826070.js.다운로드"></script><script async="" src="./facebook_files/gtm.js.다운로드"></script><script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];
+        w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js', });
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=&gtm_preview=&gtm_cookies_win=x';
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K2SMZTD');</script><title>코드라이언 | 멋쟁이사자처럼</title><style type="text/css">svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.225em;
+}
+.svg-inline--fa.fa-w-1 {
+  width: 0.0625em;
+}
+.svg-inline--fa.fa-w-2 {
+  width: 0.125em;
+}
+.svg-inline--fa.fa-w-3 {
+  width: 0.1875em;
+}
+.svg-inline--fa.fa-w-4 {
+  width: 0.25em;
+}
+.svg-inline--fa.fa-w-5 {
+  width: 0.3125em;
+}
+.svg-inline--fa.fa-w-6 {
+  width: 0.375em;
+}
+.svg-inline--fa.fa-w-7 {
+  width: 0.4375em;
+}
+.svg-inline--fa.fa-w-8 {
+  width: 0.5em;
+}
+.svg-inline--fa.fa-w-9 {
+  width: 0.5625em;
+}
+.svg-inline--fa.fa-w-10 {
+  width: 0.625em;
+}
+.svg-inline--fa.fa-w-11 {
+  width: 0.6875em;
+}
+.svg-inline--fa.fa-w-12 {
+  width: 0.75em;
+}
+.svg-inline--fa.fa-w-13 {
+  width: 0.8125em;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
+.svg-inline--fa.fa-w-15 {
+  width: 0.9375em;
+}
+.svg-inline--fa.fa-w-16 {
+  width: 1em;
+}
+.svg-inline--fa.fa-w-17 {
+  width: 1.0625em;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+.svg-inline--fa.fa-w-19 {
+  width: 1.1875em;
+}
+.svg-inline--fa.fa-w-20 {
+  width: 1.25em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-border {
+  height: 1.5em;
+}
+.svg-inline--fa.fa-li {
+  width: 2em;
+}
+.svg-inline--fa.fa-fw {
+  width: 1.25em;
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: #ff253a;
+  border-radius: 1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #fff;
+  height: 1.5em;
+  line-height: 1;
+  max-width: 5em;
+  min-width: 1.5em;
+  overflow: hidden;
+  padding: 0.25em;
+  right: 0;
+  text-overflow: ellipsis;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: 0;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  right: 0;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: 0;
+  right: auto;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.fa-pull-left {
+  float: left;
+}
+
+.fa-pull-right {
+  float: right;
+}
+
+.fa.fa-pull-left,
+.fas.fa-pull-left,
+.far.fa-pull-left,
+.fal.fa-pull-left,
+.fab.fa-pull-left {
+  margin-right: 0.3em;
+}
+.fa.fa-pull-right,
+.fas.fa-pull-right,
+.far.fa-pull-right,
+.fal.fa-pull-right,
+.fab.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8);
+}
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none;
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: #fff;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse {
+  color: #fff;
+}</style><link rel="shortcut icon" sizes="48x48" href="https://www.codelion.net/codelion_favicon@16@3x.ico"><link rel="shortcut icon" sizes="32x32" href="https://www.codelion.net/codelion_favicon@16@2x.ico"><link rel="shortcut icon" sizes="16x16" href="https://www.codelion.net/codelion_favicon@16.ico"><link rel="shortcut icon" sizes="102x102" href="https://www.codelion.net/codelion_favicon@102.ico"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,maximum-scale=1,initial-scale=1"><meta name="theme-color" content="#000000"><meta name="twitter:title" property="og:title" content="코드라이언 | 멋쟁이사자처럼"><meta name="twitter:description" property="og:description" content="멋쟁이사자처럼이 만든 온라인 코딩 교육 서비스 코드라이언!"><meta name="twitter:image" property="og:image" content="https://www.codelion.net/codelion_thumb.jpg"><meta name="twitter:url" property="og:url" content="https://www.codelion.net/"><meta property="og:type" content="website"><link rel="manifest" href="https://www.codelion.net/manifest.json"><link rel="stylesheet" href="./facebook_files/style.css"><link href="./facebook_files/12.7fb8e711.chunk.css" rel="stylesheet"><link href="./facebook_files/main.464e6cb3.chunk.css" rel="stylesheet"><style type="text/css">body.imp-payment-progress {position: static}
+body.imp-payment-progress > :not(.imp-dialog) {display: none}
+.imp-dialog {display : none; position : fixed; top : 0; bottom : 0;left : 0; right : 0; width : 100%; height: 100%; z-index:99999;}
+.imp-dialog.payment-uplus.pc {background: rgba(0,0,0,0.5);}
+.imp-dialog .imp-frame-pc.imp-frame-uplus {width: 650px !important; height: 650px !important; left: 50% !important; top: 50% !important; margin-left:-325px !important;margin-top: -325px !important;}
+.imp-dialog .imp-frame-pc.imp-frame-mobilians { left:50% !important; margin-left:-410px; width:820px !important; height:700px !important; margin-top: 50px;}
+.imp-dialog .imp-header {display:none; background:transparent; position:absolute; top:0; left:0; right:0; height:25px;}
+.imp-dialog .imp-close {text-decoration : none; position : absolute; top : 10px; right : 10px; cursor : pointer; background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAAAV1JREFUOBHNkz1Ow0AQhWMHioggUSFEyRGAggp6KqDhDHAFOioU/loQoqDlGhyAgmtQ0gEO31jz1iPbcZyOlUY7fvvem9mdZDD472vY0mDegrVBGaBF54qELuPYSNQkc4FjkHNCAu2JSLLkHxvsZ+Gg9FAXUw4M+CI+8zy/cuIvezQ1sx9iDOeS/YOwZT7m0VgqcITgOpwars5WOXvke9vPY8EgqVIJTxDeVXCZWWdPZLuOL9fOZ35G03tnjbyznS4zDaPNWe91iNE+hGlRFK/s74R19k0stNJ1six7w/QlqPXWAepOdWUbwDPULeKAPL7p3GGohMzqA7DzY0xvRWSfayrCCsIHBHGaKmTTr/+kQo0q1busuZl+Z+ktocrUOr2ppM3/tKY9hDiBuOfkaCa9TE8BLhyUXpxUYQSy7qiun0gh0W02wWbyYhUJgkcj7cMpRb2JsBfhNjrqBfwBsGIgzBGH3EgAAAAASUVORK5CYII=');}.imp-dialog.popup .imp-frame-danal-certification {background:transparent !important;}
+.imp-dialog.pc .imp-frame-danal-certification {width:410px !important;height:660px !important;margin:10px auto;background: #fff;}
+.imp-dialog.pc.certification-danal {background: rgb(255, 255, 255);background: rgba(0,0,0,0.5);}
+.imp-dialog.pc.certification-danal .imp-header {display:block; width: 410px;margin:0 auto;}
+.imp-dialog.pc.certification-danal.popup .imp-header {display:none;}
+.imp-dialog.pc.certification-danal .imp-header .imp-close {top:18px; right:25px; width:19px; height:19px;}
+.imp-dialog.mobile.ios {position:absolute;}
+.imp-dialog.mobile.certification-danal .imp-header {display:block;}
+.imp-dialog.mobile.certification-danal.popup .imp-header {display:none;}
+.imp-dialog.mobile.certification-danal .imp-header .imp-close {top:6px; right:10px; width:19px; height:19px;}
+.imp-dialog.pc.payment-settle_firm {background: rgb(221, 221, 221);background: rgba(0,0,0,0.5);}
+.imp-dialog.pc .imp-frame-settle_firm.layer {width:410px !important;height:700px !important;margin:10px auto;background: #fff;}
+.imp-dialog.pc.payment-kakaopay {background: rgb(221, 221, 221);background: rgba(0,0,0,0.5);}
+.imp-dialog.pc.payment-kakaopay .imp-frame-kakaopay {width: 426px !important; height: 550px !important; left: 50% !important; top: 50% !important; margin-left:-213px !important;margin-top: -275px !important;}</style><script charset="utf-8" src="./facebook_files/2.a5a01c38.chunk.js.다운로드"></script><script charset="utf-8" src="./facebook_files/147.372af507.chunk.js.다운로드"></script><script charset="utf-8" src="./facebook_files/97.032f4e6a.chunk.js.다운로드"></script><style data-emotion="css"></style><style type="text/css">
+
+[data-framer-component-type] {
+    position: absolute;
+}
+
+
+[data-framer-component-type="Text"] {
+    cursor: inherit;
+}
+
+[data-framer-component-text-autosized] * {
+    white-space: pre;
+}
+
+
+[data-framer-component-type="Stack"] > *,
+[data-framer-component-type="Stack"] > [data-framer-component-type],
+[data-framer-stack-gap] > *,
+[data-framer-stack-gap] > [data-framer-component-type] {
+    position: relative;
+}
+
+[data-framer-stack-gap] > * {
+    margin-top: calc(var(--stack-gap-y) / 2);
+    margin-bottom: calc(var(--stack-gap-y) / 2);
+    margin-right: calc(var(--stack-gap-x) / 2);
+    margin-left: calc(var(--stack-gap-x) / 2);
+}
+
+/* This should take the language direction into account */
+[data-framer-stack-direction-reverse="false"]
+[data-framer-stack-gap]
+> *:first-child,
+[data-framer-stack-direction-reverse="true"]
+[data-framer-stack-gap]
+> *:last-child {
+    margin-top: 0;
+    margin-left: 0;
+}
+
+/* This should take the language direction into account */
+[data-framer-stack-direction-reverse="false"]
+[data-framer-stack-gap]
+> *:last-child,
+[data-framer-stack-direction-reverse="true"]
+[data-framer-stack-gap]
+> *:first-child {
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+
+NavigationContainer
+[data-framer-component-type="NavigationContainer"] > *,
+[data-framer-component-type="NavigationContainer"] > [data-framer-component-type] {
+    position: relative;
+}
+
+
+[data-framer-component-type="Scroll"]::-webkit-scrollbar {
+    display: none;
+}
+[data-framer-component-type="ScrollContentWrapper"] > * {
+    position: relative;
+}
+
+
+[data-framer-component-type="PageContentWrapper"] > *,
+[data-framer-component-type="PageContentWrapper"] > [data-framer-component-type] {
+    position: relative;
+}
+
+
+[data-is-present="false"], [data-is-present="false"] * {
+    pointer-events: none !important;
+}
+
+
+[data-framer-cursor="pointer"] {
+    cursor: pointer;
+}
+[data-framer-cursor="grab"] {
+    cursor: grab;
+}
+[data-framer-cursor="grab"]:active {
+    cursor: grabbing;
+}
+
+ [data-framer-component-type="Frame"] * { pointer-events: auto; } </style><style type="text/css" media="screen" class="monaco-colors">.monaco-editor .accessibilityHelpWidget { background-color: #252526; }
+.monaco-editor .accessibilityHelpWidget { color: #cccccc; }
+.monaco-editor .accessibilityHelpWidget { box-shadow: 0 2px 8px #000000; }
+.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input { background-color: #292a2f; }
+.monaco-editor, .monaco-editor .inputarea.ime-input { color: #d4d4d4; }
+.monaco-editor .margin { background-color: #292a2f; }
+.monaco-editor .rangeHighlight { background-color: rgba(255, 255, 255, 0.04); }
+.monaco-editor .symbolHighlight { background-color: rgba(234, 92, 0, 0.33); }
+.vs-whitespace { color: rgba(227, 228, 226, 0.16) !important; }
+.monaco-editor .bracket-match { background-color: rgba(0, 100, 0, 0.1); }
+.monaco-editor .bracket-match { border: 1px solid #888888; }
+.monaco-editor .monaco-editor-overlaymessage .anchor { border-top-color: #007acc; }
+.monaco-editor .monaco-editor-overlaymessage .message { border: 1px solid #007acc; }
+.monaco-editor .monaco-editor-overlaymessage .message { background-color: #063b49; }
+
+		.monaco-editor .contentWidgets .codicon-lightbulb {
+			color: #ffcc00;
+		}
+
+		.monaco-editor .contentWidgets .codicon-lightbulb-autofix {
+			color: #75beff;
+		}
+.monaco-editor .codelens-decoration { color: #999999; }
+.monaco-editor .codelens-decoration .codicon { color: #999999; }
+.monaco-editor .codelens-decoration > a:hover { color: #4e94ce !important; }
+.monaco-editor .codelens-decoration > a:hover .codicon { color: #4e94ce !important; }
+.monaco-editor .findOptionsWidget { background-color: #252526; }
+.monaco-editor .findOptionsWidget { color: #cccccc; }
+.monaco-editor .findOptionsWidget { box-shadow: 0 2px 8px #000000; }
+.monaco-editor .findMatch { background-color: rgba(234, 92, 0, 0.33); }
+.monaco-editor .currentFindMatch { background-color: #515c6a; }
+.monaco-editor .findScope { background-color: rgba(58, 61, 65, 0.4); }
+.monaco-editor .find-widget { background-color: #252526; }
+.monaco-editor .find-widget { box-shadow: 0 2px 8px #000000; }
+.monaco-editor .find-widget { color: #cccccc; }
+.monaco-editor .find-widget.no-results .matchesCount { color: #f48771; }
+.monaco-editor .find-widget .monaco-sash { background-color: #454545; width: 3px !important; margin-left: -4px;}
+.monaco-editor .find-widget .monaco-inputbox.synthetic-focus { outline-color: rgba(14, 99, 156, 0.8); }
+.monaco-editor .folded-background { background-color: rgba(38, 79, 120, 0.3); }
+.monaco-editor .line-numbers { color: #858585; }
+.monaco-editor .current-line ~ .line-numbers { color: #c6c6c6; }
+.monaco-editor .view-overlays .current-line { background-color: #383a43; }
+.monaco-editor .margin-view-overlays .current-line-margin { background-color: #383a43; border: none; }
+.monaco-editor .lines-content .cigr { box-shadow: 1px 0 0 0 #404040 inset; }
+.monaco-editor .lines-content .cigra { box-shadow: 1px 0 0 0 #707070 inset; }
+.monaco-editor .minimap-slider, .monaco-editor .minimap-slider .minimap-slider-horizontal { background: rgba(121, 121, 121, 0.2); }
+.monaco-editor .minimap-slider:hover, .monaco-editor .minimap-slider:hover .minimap-slider-horizontal { background: rgba(100, 100, 100, 0.35); }
+.monaco-editor .minimap-slider.active, .monaco-editor .minimap-slider.active .minimap-slider-horizontal { background: rgba(191, 191, 191, 0.2); }
+.monaco-editor .minimap-shadow-visible { box-shadow: #000000 -6px 0 6px -6px inset; }
+.monaco-editor .view-ruler { box-shadow: 1px 0 0 0 #5a5a5a inset; }
+.monaco-editor .scroll-decoration { box-shadow: #000000 0 6px 6px -6px inset; }
+.monaco-editor .focused .selected-text { background-color: #264f78; }
+.monaco-editor .selected-text { background-color: #3a3d41; }
+.monaco-editor .cursor { background-color: #aeafad; border-color: #aeafad; color: #515052; }
+.monaco-editor .squiggly-error { background: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%206%203'%20enable-background%3D'new%200%200%206%203'%20height%3D'3'%20width%3D'6'%3E%3Cg%20fill%3D'%23f48771'%3E%3Cpolygon%20points%3D'5.5%2C0%202.5%2C3%201.1%2C3%204.1%2C0'%2F%3E%3Cpolygon%20points%3D'4%2C0%206%2C2%206%2C0.6%205.4%2C0'%2F%3E%3Cpolygon%20points%3D'0%2C2%201%2C3%202.4%2C3%200%2C0.6'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") repeat-x bottom left; }
+.monaco-editor .squiggly-warning { background: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%206%203'%20enable-background%3D'new%200%200%206%203'%20height%3D'3'%20width%3D'6'%3E%3Cg%20fill%3D'%23cca700'%3E%3Cpolygon%20points%3D'5.5%2C0%202.5%2C3%201.1%2C3%204.1%2C0'%2F%3E%3Cpolygon%20points%3D'4%2C0%206%2C2%206%2C0.6%205.4%2C0'%2F%3E%3Cpolygon%20points%3D'0%2C2%201%2C3%202.4%2C3%200%2C0.6'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") repeat-x bottom left; }
+.monaco-editor .squiggly-info { background: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%206%203'%20enable-background%3D'new%200%200%206%203'%20height%3D'3'%20width%3D'6'%3E%3Cg%20fill%3D'%2375beff'%3E%3Cpolygon%20points%3D'5.5%2C0%202.5%2C3%201.1%2C3%204.1%2C0'%2F%3E%3Cpolygon%20points%3D'4%2C0%206%2C2%206%2C0.6%205.4%2C0'%2F%3E%3Cpolygon%20points%3D'0%2C2%201%2C3%202.4%2C3%200%2C0.6'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") repeat-x bottom left; }
+.monaco-editor .squiggly-hint { background: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20height%3D%223%22%20width%3D%2212%22%3E%3Cg%20fill%3D%22rgba(238%2C%20238%2C%20238%2C%200.7)%22%3E%3Ccircle%20cx%3D%221%22%20cy%3D%221%22%20r%3D%221%22%2F%3E%3Ccircle%20cx%3D%225%22%20cy%3D%221%22%20r%3D%221%22%2F%3E%3Ccircle%20cx%3D%229%22%20cy%3D%221%22%20r%3D%221%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") no-repeat bottom left; }
+.monaco-editor.showUnused .squiggly-inline-unnecessary { opacity: 0.667; }
+.monaco-editor .squiggly-inline-deprecated { text-decoration: line-through; text-decoration-color: #d4d4d4}
+
+			.monaco-editor .zone-widget .codicon-error,
+			.markers-panel .marker-icon.codicon-error,
+			.extensions-viewlet > .extensions .codicon-error,
+			.monaco-dialog-box .dialog-message-row .codicon-error {
+				color: #f48771;
+			}
+		
+
+			.monaco-editor .zone-widget .codicon-warning,
+			.markers-panel .marker-icon.codicon-warning,
+			.extensions-viewlet > .extensions .codicon-warning,
+			.extension-editor .codicon-warning,
+			.monaco-dialog-box .dialog-message-row .codicon-warning {
+				color: #cca700;
+			}
+		
+
+			.monaco-editor .zone-widget .codicon-info,
+			.markers-panel .marker-icon.codicon-info,
+			.extensions-viewlet > .extensions .codicon-info,
+			.extension-editor .codicon-info,
+			.monaco-dialog-box .dialog-message-row .codicon-info {
+				color: #75beff;
+			}
+		
+.monaco-editor .marker-widget a { color: #3794ff; }
+.monaco-editor .marker-widget a.code-link span:hover { color: #3794ff; }
+.monaco-editor .reference-zone-widget .ref-tree .referenceMatch .highlight { background-color: rgba(234, 92, 0, 0.3); }
+.monaco-editor .reference-zone-widget .preview .reference-decoration { background-color: rgba(255, 143, 0, 0.6); }
+.monaco-editor .reference-zone-widget .ref-tree { background-color: #252526; }
+.monaco-editor .reference-zone-widget .ref-tree { color: #bbbbbb; }
+.monaco-editor .reference-zone-widget .ref-tree .reference-file { color: #ffffff; }
+.monaco-editor .reference-zone-widget .ref-tree .monaco-list:focus .monaco-list-rows > .monaco-list-row.selected:not(.highlighted) { background-color: rgba(51, 153, 255, 0.2); }
+.monaco-editor .reference-zone-widget .ref-tree .monaco-list:focus .monaco-list-rows > .monaco-list-row.selected:not(.highlighted) { color: #ffffff !important; }
+.monaco-editor .reference-zone-widget .preview .monaco-editor .monaco-editor-background,.monaco-editor .reference-zone-widget .preview .monaco-editor .inputarea.ime-input {	background-color: #001f33;}
+.monaco-editor .reference-zone-widget .preview .monaco-editor .margin {	background-color: #001f33;}
+.monaco-editor .goto-definition-link { color: #4e94ce !important; }
+.monaco-editor-hover .hover-contents a.code-link span:hover { color: #3794ff; }
+.monaco-editor .hoverHighlight { background-color: rgba(38, 79, 120, 0.25); }
+.monaco-editor .monaco-editor-hover { background-color: #252526; }
+.monaco-editor .monaco-editor-hover { border: 1px solid #454545; }
+.monaco-editor .monaco-editor-hover .hover-row:not(:first-child):not(:empty) { border-top: 1px solid rgba(69, 69, 69, 0.5); }
+.monaco-editor .monaco-editor-hover hr { border-top: 1px solid rgba(69, 69, 69, 0.5); }
+.monaco-editor .monaco-editor-hover hr { border-bottom: 0px solid rgba(69, 69, 69, 0.5); }
+.monaco-editor .monaco-editor-hover a { color: #3794ff; }
+.monaco-editor .monaco-editor-hover { color: #cccccc; }
+.monaco-editor .monaco-editor-hover .hover-row .actions { background-color: #2c2c2d; }
+.monaco-editor .monaco-editor-hover code { background-color: rgba(10, 10, 10, 0.4); }
+.monaco-editor.vs .valueSetReplacement { outline: solid 2px #888888; }
+.monaco-editor .tokens-inspect-widget { border: 1px solid #454545; }
+.monaco-editor .tokens-inspect-widget .tokens-inspect-separator { background-color: #454545; }
+.monaco-editor .tokens-inspect-widget { background-color: #252526; }
+.monaco-editor .tokens-inspect-widget { color: #cccccc; }
+.monaco-editor .detected-link-active { color: #4e94ce !important; }
+.monaco-editor .parameter-hints-widget { border: 1px solid #454545; }
+.monaco-editor .parameter-hints-widget.multiple .body { border-left: 1px solid rgba(69, 69, 69, 0.5); }
+.monaco-editor .parameter-hints-widget .signature.has-docs { border-bottom: 1px solid rgba(69, 69, 69, 0.5); }
+.monaco-editor .parameter-hints-widget { background-color: #252526; }
+.monaco-editor .parameter-hints-widget a { color: #3794ff; }
+.monaco-editor .parameter-hints-widget { color: #cccccc; }
+.monaco-editor .parameter-hints-widget code { background-color: rgba(10, 10, 10, 0.4); }
+.codicon-symbol-array { color: #cccccc !important; }
+.codicon-symbol-boolean { color: #cccccc !important; }
+.codicon-symbol-class { color: #ee9d28 !important; }
+.codicon-symbol-method { color: #b180d7 !important; }
+.codicon-symbol-color { color: #cccccc !important; }
+.codicon-symbol-constant { color: #cccccc !important; }
+.codicon-symbol-constructor { color: #b180d7 !important; }
+
+			.codicon-symbol-value,.codicon-symbol-enum { color: #ee9d28 !important; }
+.codicon-symbol-enum-member { color: #75beff !important; }
+.codicon-symbol-event { color: #ee9d28 !important; }
+.codicon-symbol-field { color: #75beff !important; }
+.codicon-symbol-file { color: #cccccc !important; }
+.codicon-symbol-folder { color: #cccccc !important; }
+.codicon-symbol-function { color: #b180d7 !important; }
+.codicon-symbol-interface { color: #75beff !important; }
+.codicon-symbol-key { color: #cccccc !important; }
+.codicon-symbol-keyword { color: #cccccc !important; }
+.codicon-symbol-module { color: #cccccc !important; }
+.codicon-symbol-namespace { color: #cccccc !important; }
+.codicon-symbol-null { color: #cccccc !important; }
+.codicon-symbol-number { color: #cccccc !important; }
+.codicon-symbol-object { color: #cccccc !important; }
+.codicon-symbol-operator { color: #cccccc !important; }
+.codicon-symbol-package { color: #cccccc !important; }
+.codicon-symbol-property { color: #cccccc !important; }
+.codicon-symbol-reference { color: #cccccc !important; }
+.codicon-symbol-snippet { color: #cccccc !important; }
+.codicon-symbol-string { color: #cccccc !important; }
+.codicon-symbol-struct { color: #cccccc !important; }
+.codicon-symbol-text { color: #cccccc !important; }
+.codicon-symbol-type-parameter { color: #cccccc !important; }
+.codicon-symbol-unit { color: #cccccc !important; }
+.codicon-symbol-variable { color: #75beff !important; }
+.monaco-editor .snippet-placeholder { background-color: rgba(124, 124, 124, 0.3); outline-color: transparent; }
+.monaco-editor .finish-snippet-placeholder { background-color: transparent; outline-color: #525252; }
+.monaco-editor .suggest-widget .monaco-list .monaco-list-row .monaco-highlighted-label .highlight { color: #0097fb; }
+.monaco-editor .suggest-widget { color: #d4d4d4; }
+.monaco-editor .suggest-widget a { color: #3794ff; }
+.monaco-editor .suggest-widget code { background-color: rgba(10, 10, 10, 0.4); }
+.monaco-editor .focused .selectionHighlight { background-color: rgba(173, 214, 255, 0.15); }
+.monaco-editor .selectionHighlight { background-color: rgba(173, 214, 255, 0.07); }
+.monaco-editor .wordHighlight { background-color: rgba(87, 87, 87, 0.72); }
+.monaco-editor .wordHighlightStrong { background-color: rgba(0, 73, 114, 0.72); }
+.monaco-diff-editor .diff-review-line-number { color: #858585; }
+.monaco-diff-editor .diff-review-shadow { box-shadow: #000000 0 -6px 6px -6px inset; }
+.monaco-editor .line-insert, .monaco-editor .char-insert { background-color: rgba(155, 185, 85, 0.2); }
+.monaco-diff-editor .line-insert, .monaco-diff-editor .char-insert { background-color: rgba(155, 185, 85, 0.2); }
+.monaco-editor .inline-added-margin-view-zone { background-color: rgba(155, 185, 85, 0.2); }
+.monaco-editor .line-delete, .monaco-editor .char-delete { background-color: rgba(255, 0, 0, 0.2); }
+.monaco-diff-editor .line-delete, .monaco-diff-editor .char-delete { background-color: rgba(255, 0, 0, 0.2); }
+.monaco-editor .inline-deleted-margin-view-zone { background-color: rgba(255, 0, 0, 0.2); }
+.monaco-diff-editor.side-by-side .editor.modified { box-shadow: -6px 0 5px -5px #000000; }
+
+.mtk1 { color: #d4d4d4; }
+.mtk2 { color: #292a2f; }
+.mtk3 { color: #cc6666; }
+.mtk4 { color: #9cdcfe; }
+.mtk5 { color: #ce9178; }
+.mtk6 { color: #b5cea8; }
+.mtk7 { color: #608b4e; }
+.mtk8 { color: #569cd6; }
+.mtk9 { color: #dcdcdc; }
+.mtk10 { color: #808080; }
+.mtk11 { color: #f44747; }
+.mtk12 { color: #c586c0; }
+.mtk13 { color: #a79873; }
+.mtk14 { color: #dd6a6f; }
+.mtk15 { color: #5bb498; }
+.mtk16 { color: #909090; }
+.mtk17 { color: #778899; }
+.mtk18 { color: #ff00ff; }
+.mtk19 { color: #b46695; }
+.mtk20 { color: #ff0000; }
+.mtk21 { color: #4f76ac; }
+.mtk22 { color: #3dc9b0; }
+.mtk23 { color: #74b0df; }
+.mtk24 { color: #4864aa; }
+.mtki { font-style: italic; }
+.mtkb { font-weight: bold; }
+.mtku { text-decoration: underline; text-underline-position: under; }</style><style type="text/css" media="screen">
+		.monaco-editor .codelens-decoration.ee1f61 { height: 31px; line-height: 28px; font-size: 14px; padding-right: 7px;}
+		.monaco-editor .codelens-decoration.ee1f61 > a > .codicon { line-height: 28px; font-size: 14px; }
+		</style><script async="" src="./facebook_files/modules.0076bf93c385ddf0ff58.js.다운로드" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="./facebook_files/f(1).txt"></script><script src="./facebook_files/f(2).txt"></script><script type="text/javascript" charset="utf8" async="" src="./facebook_files/hls.min.js.다운로드"></script><script charset="utf-8" src="./facebook_files/149.e14d2ae7.chunk.js.다운로드"></script><script charset="utf-8" src="./facebook_files/112.39e9182d.chunk.js.다운로드"></script><script charset="utf-8" src="./facebook_files/148.d265fcf5.chunk.js.다운로드"></script><script charset="utf-8" src="./facebook_files/111.f7b622c1.chunk.js.다운로드"></script><style type="text/css" id="react-draggable-style-el">.react-draggable-transparent-selection *::-moz-selection {all: inherit;}
+.react-draggable-transparent-selection *::selection {all: inherit;}
+</style></head><body class="h-100"><noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2SMZTD&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe></noscript><noscript>You need to enable JavaScript to run this app.</noscript><div id="root" class="h-100 d-flex flex-column"><div class="d-flex flex-column flex-grow-1 class-container overflow-hidden" style=""><nav class="p-0 navbar navbar-expand navbar-light"><div class="flex-grow-1 m-0 row"><a class="py-2 pl-3 navbar-brand" href="https://www.codelion.net/"><svg width="170" height="34" viewBox="0 0 170 34" fill="none" class="d-block"><g clip-path="url(#clip0_573_4400)"><path d="M61.9285 2.04297H78.0424L46.9649 31.8678H30.8511L61.9285 2.04297Z" fill="#FF9E1B"></path><path d="M17.9317 13.6262C18.747 13.6373 19.5477 13.8359 20.2666 14.2051C20.9856 14.5743 21.602 15.1036 22.0641 15.7485L26.0853 12.3029C24.2231 9.97118 21.3083 8.67578 17.6108 8.67578C11.539 8.67578 7.08643 12.5878 7.08643 18.1584C7.08643 23.7289 11.539 27.6403 17.6108 27.6403C21.3083 27.6403 24.2231 26.3449 26.0853 24.0132L22.0641 20.5676C21.6026 21.2124 20.9869 21.7418 20.2685 22.1113C19.5502 22.4809 18.7501 22.68 17.9353 22.6919C15.291 22.6919 13.5096 20.9307 13.5096 18.1584C13.5096 15.386 15.2903 13.6241 17.9353 13.6241" fill="white"></path><path d="M103.331 9.09375H96.9619V27.2287H111.858V22.4884H103.331V9.09375Z" fill="white"></path><path d="M119.98 9.09375H113.611V27.2287H119.98V9.09375Z" fill="white"></path><path d="M156.103 9.09375V17.3292L148.921 9.09375H143.686V27.2287H149.893V18.9905L157.071 27.2287H162.308V9.09375H156.103Z" fill="white"></path><path d="M131.833 8.32812C129.169 8.32812 126.614 9.34395 124.731 11.1521C122.847 12.9603 121.789 15.4127 121.789 17.9698C121.789 20.527 122.847 22.9794 124.731 24.7876C126.614 26.5957 129.169 27.6116 131.833 27.6116C134.496 27.6116 137.051 26.5957 138.934 24.7876C140.818 22.9794 141.876 20.527 141.876 17.9698C141.876 15.4127 140.818 12.9603 138.934 11.1521C137.051 9.34395 134.496 8.32812 131.833 8.32812ZM131.833 21.7241C130.795 21.7241 129.8 21.3285 129.067 20.6243C128.333 19.9201 127.921 18.965 127.921 17.9692C127.921 16.9733 128.333 16.0182 129.067 15.314C129.8 14.6098 130.795 14.2142 131.833 14.2142C132.87 14.2142 133.865 14.6098 134.598 15.314C135.332 16.0182 135.744 16.9733 135.744 17.9692C135.744 18.965 135.332 19.9201 134.598 20.6243C133.865 21.3285 132.87 21.7241 131.833 21.7241Z" fill="white"></path><path d="M36.9761 8.32812C34.2265 8.32812 31.5896 9.37669 29.6454 11.2431C27.7011 13.1096 26.6089 15.641 26.6089 18.2806C26.6094 19.973 27.0606 21.6372 27.9196 23.1151C28.7786 24.5931 30.0169 25.8356 31.5169 26.7248L36.6552 21.7935C35.7368 21.7199 34.8806 21.3181 34.256 20.6676C33.6314 20.0171 33.2839 19.1653 33.2821 18.2806C33.2821 17.3408 33.671 16.4395 34.3632 15.775C35.0554 15.1105 35.9943 14.7371 36.9732 14.7371C37.8949 14.7388 38.7823 15.0726 39.4599 15.6724C40.1375 16.2721 40.556 17.0942 40.6325 17.976L45.77 13.0453C44.8444 11.6042 43.5502 10.4143 42.0105 9.58864C40.4708 8.76301 38.7368 8.32909 36.9732 8.32812" fill="white"></path><path d="M57.7288 9.09375H48.4185V27.2287H57.7288C64.0429 27.2287 68.3885 23.7831 68.3885 18.1616C68.3885 12.54 64.0457 9.09375 57.7288 9.09375ZM57.4582 22.4619H54.7871V13.8612H57.4582C60.13 13.8612 61.9653 15.3892 61.9653 18.1616C61.9653 20.9339 60.1307 22.4619 57.4582 22.4619Z" fill="white"></path><path d="M76.9685 20.2342H84.9563V15.8298H76.9685V13.7055H86.0635V9.09375H70.7075V27.2287H86.4134V22.6169H76.9685V20.2342Z" fill="white"></path></g><defs><clippath id="clip0_573_4400"><rect width="155.226" height="29.8248" fill="white" transform="translate(7.0835 2.04297)"></rect></clippath></defs></svg></a></div><div class="m-0 row"><div class="d-flex align-items-center justify-content-end col"><div class="dropdown common"><button type="button" class="border-0 toggle-personal btn btn-link"><img src="./facebook_files/img-accountsetting-defaultprofilepic.d0f90bb1.svg" alt="" class="rounded-circle mr-1"><svg width="8" height="8" viewBox="0 0 8 8" class="arrow"><path fill="#EBEBEB" fill-rule="evenodd" d="M0 1l4 5.07L8 1z"></path></svg></button></div></div></div></nav><div class="d-flex" style="height: calc(100vh - 52px);"><div class="left-tabs d-flex flex-column"><ul class="list-unstyled mb-0"><li><button title="강의목차" type="button" class="border-0 chapter btn btn-link"></button></li><li><button title="질문답변" type="button" class="border-0 q-and-a btn btn-link"></button></li><li><button title="자료실" type="button" class="border-0 references btn btn-link"></button></li><li><button title="버전 히스토리" type="button" class="border-0 change-history btn btn-link"></button></li></ul><div class="flex-grow-1"></div><div class="mt-auto"><ul class="list-unstyled mb-0"><li class="contactUs-btn"><button title="문의하기" type="button" class="border-0 contactUs btn btn-link"></button></li><li><a href="https://drive.google.com/file/d/1nuL5BrppGSWhaexhz9Ti6YMCBsdA8bXW/view" target="_blank" title="매뉴얼 보기" class="border-0 manual ide-manual-btn btn btn-link"></a></li></ul></div></div><div class="flex-grow-1"><div class="d-grid h-100 false" style="grid-template-columns: 0px 0px 1fr;"><div class="left-tab-contents h-100"></div><div class="gutter gutter-column"></div><div class="viditing-boundary position-relative" style="height: calc(100vh - 52px);"><div class="d-grid h-100 drag-boundary overflow-hidden" style="grid-template-rows: 1fr 4px 180px 48px;"><div class="d-flex flex-column position-relative"><div class="d-grid h-100" style="grid-template-columns: 1fr 0px;"><div class="d-grid h-100 flex-grow-1" style="grid-template-columns: 160px 4px 1fr;"><div class="filetree-container d-flex flex-column"><div class="d-flex"><div class="flex-grow-1"></div><button type="button" class="border-0 export btn btn-link"><svg width="18" height="18" viewBox="0 0 18 18" class="d-block"><path fill="#919191" fill-rule="evenodd" stroke="#919191" stroke-width="0.8" d="M8.69 3.597v6.844a.48.48 0 1 0 .96 0V3.579l1.584 1.919a.48.48 0 0 0 .682 0 .486.486 0 0 0 0-.685L9.543 1.938A.474.474 0 0 0 9.18 1.8a.472.472 0 0 0-.365.137L6.44 4.813a.486.486 0 0 0 0 .685c.188.19.494.19.681 0l1.569-1.901zm7.45 6.785c-.282 0-.51.215-.51.48v3.36H2.37v-3.36c0-.265-.228-.48-.51-.48-.282 0-.51.215-.51.48v3.84c0 .265.228.48.51.48h14.28c.282 0 .51-.215.51-.48v-3.84c0-.265-.228-.48-.51-.48z"></path></svg></button></div><div class="scrollbar-container" style="position: relative; overflow: hidden; width: 100%; height: 100%;"><div style="position: absolute; inset: 0px; overflow: scroll; margin-right: -17px; margin-bottom: -17px;"><ul class="css-f91fgu"><li class="css-79elbk"><div><div style="position: absolute; display: inline-block; vertical-align: top; margin-left: 0px; height: 18px; width: 18px; top: 5px; left: 6px;"><div style="position: static; top: 50%; left: 50%; margin: 0px; height: auto; transition: transform 200ms ease-out 0s; transform: rotateZ(90deg);"><img src="./facebook_files/btn-ide-filetree-directory-off.bce4aea8.svg" alt="" class="d-block"></div></div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; color: rgb(235, 235, 235); padding-left: 28px;"><span class="icon d-inline-block dir"></span><span class="text-truncate">images</span></div></div><div><ul class="css-1s1o8u8" style="display: block;"><li class="css-79elbk"><div><div class="item align-items-center pr-2 active" style="display: flex; vertical-align: top; padding-left: 43px;"><span class="icon d-inline-block file png"></span><span class="text-truncate">facebook.png</span></div></div><div></div></li><li class="css-79elbk"><div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; padding-left: 43px;"><span class="icon d-inline-block file png"></span><span class="text-truncate">insta.png</span></div></div><div></div></li><li class="css-79elbk"><div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; padding-left: 43px;"><span class="icon d-inline-block file png"></span><span class="text-truncate">linked-in.png</span></div></div><div></div></li><li class="css-79elbk"><div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; padding-left: 43px;"><span class="icon d-inline-block file png"></span><span class="text-truncate">twitter.png</span></div></div><div></div></li></ul></div></li><li class="css-79elbk"><div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; padding-left: 28px;"><span class="icon d-inline-block file css"></span><span class="text-truncate">codelion.css</span></div></div><div></div></li><li class="css-79elbk"><div><div class="item align-items-center pr-2" style="display: flex; vertical-align: top; padding-left: 28px;"><span class="icon d-inline-block file html"></span><span class="text-truncate">index.html</span></div></div><div></div></li></ul></div><div style="position: absolute; height: 6px; transition: opacity 200ms ease 0s; opacity: 0; right: 2px; bottom: 2px; left: 2px; border-radius: 3px;"><div style="position: relative; display: block; height: 100%; cursor: pointer; border-radius: inherit; background-color: rgba(0, 0, 0, 0.2); width: 0px;"></div></div><div class="scrollbar-track-vertical" style="position: absolute; width: 4px; transition: opacity 200ms ease 0s; opacity: 0;"><div class="scrollbar-thumb-vertical" style="position: relative; display: block; width: 100%; height: 0px;"></div></div></div></div><div class="gutter gutter-column"></div><div class="d-flex flex-column overflow-hidden"><div class="tabs-container d-flex"><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-idefolder-t-01-on.ffb8fb05.svg" alt="" class="d-block"></button><div class="flex-grow-1"><div class="d-flex"><div class="position-relative flex-grow-1" style="height: 40px;"><div class="scrollbar-container" style="position: relative; overflow: hidden; width: 100%; height: 100%;"><div style="position: absolute; inset: 0px; overflow: scroll; margin-right: -17px; margin-bottom: -17px;"><ul class="list-group list-group-horizontal list-unstyled d-inline-flex"><li class="d-flex align-items-center"><label class="my-2">index.html</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li><li class="d-flex align-items-center"><label class="my-2">codelion.css</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li><li class="d-flex align-items-center active"><label class="my-2">facebook.png</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li><li class="d-flex align-items-center"><label class="my-2">insta.png</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li><li class="d-flex align-items-center"><label class="my-2">linked-in.png</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li><li class="d-flex align-items-center"><label class="my-2">twitter.png</label><button type="button" class="border-0 btn btn-link"><img src="./facebook_files/btn-windowtapcancle-t-01.c308fae4.svg" alt="" class="d-block"></button></li></ul></div><div style="position: absolute; height: 6px; right: 2px; bottom: 2px; left: 2px; border-radius: 3px;"><div style="position: relative; display: none; height: 100%; width: 0px;"></div></div><div style="position: absolute; width: 6px; right: 2px; bottom: 2px; top: 2px; border-radius: 3px;"><div style="position: relative; display: block; width: 100%; cursor: pointer; border-radius: inherit; background-color: rgba(0, 0, 0, 0.2); height: 0px;"></div></div></div><div class="position-absolute shadow left"></div><div class="position-absolute shadow right"></div></div></div></div></div><div class="flex-grow-1 d-flex"><div class="image-container flex-grow-1 d-flex align-items-center justify-content-center overflow-hidden"><img src="./facebook_files/facebook.png" alt=""></div><div class="editor-container flex-grow-1 d-none" style="height: 277px; width: auto; max-height: 277px;"><div class="react-monaco-editor-container" data-keybinding-context="1" data-mode-id="plaintext" style="width: 100%; height: 100%;"><div class="monaco-editor no-user-select  showUnused vs-dark" data-uri="inmemory://model/1" style="width: 5px; height: 5px;"><div data-mprt="3" class="overflow-guard" style="width: 5px; height: 5px;"><div class="margin" role="presentation" aria-hidden="true" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; height: 2922px; width: 66px;"><div class="glyph-margin" style="left: 0px; width: 0px; height: 2922px;"></div><div class="margin-view-zones" role="presentation" aria-hidden="true" style="position: absolute;"></div><div class="margin-view-overlays" role="presentation" aria-hidden="true" style="position: absolute; width: 66px; font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-weight: normal; font-size: 16px; font-feature-settings: &quot;liga&quot;, &quot;calt&quot;; line-height: 28px; letter-spacing: 0px; height: 38px;"><div style="position:absolute;top:0px;width:100%;height:28px;"><div class="line-numbers" style="left:0px;width:40px;">1</div></div></div></div><div class="monaco-scrollable-element editor-scrollable vs-dark" role="presentation" data-mprt="5" style="position: absolute; overflow: hidden; left: 66px; height: 5px; width: 996px;"><div class="lines-content monaco-editor-background" style="position: absolute; overflow: hidden; width: 1e+06px; height: 1e+06px; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; left: 0px;"><div class="view-overlays" role="presentation" aria-hidden="true" style="position: absolute; height: 0px; width: 41px;"><div style="position:absolute;top:0px;width:100%;height:28px;"><div class="current-line" style="width:41px; height:28px;"></div></div></div><div role="presentation" aria-hidden="true" class="view-rulers"></div><div class="view-zones" role="presentation" aria-hidden="true" style="position: absolute;"></div><div class="view-lines" role="presentation" aria-hidden="true" data-mprt="7" style="position: absolute; font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-weight: normal; font-size: 16px; font-feature-settings: &quot;liga&quot;, &quot;calt&quot;; line-height: 28px; letter-spacing: 0px; width: 41px; height: 38px;"><div style="top:0px;height:28px;" class="view-line"><span><span>&nbsp;</span></span></div></div><div data-mprt="1" class="contentWidgets" style="position: absolute; top: 0px;"></div><div role="presentation" aria-hidden="true" class="cursors-layer cursor-line-style cursor-solid"><div class="cursor " style="height: 28px; top: 0px; left: 0px; font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-weight: normal; font-size: 16px; font-feature-settings: &quot;liga&quot;, &quot;calt&quot;; line-height: 28px; letter-spacing: 0px; display: block; visibility: hidden; width: 2px;"></div></div></div><div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal fade" style="position: absolute; width: 0px; height: 10px; left: 0px; bottom: 0px;"><div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict; width: 20px;"></div></div><canvas class="decorationsOverviewRuler" aria-hidden="true" width="0" height="0" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; right: 0px; width: 14px; height: 5px;"></canvas><div role="presentation" aria-hidden="true" class="invisible scrollbar vertical fade" style="position: absolute; width: 14px; height: 5px; right: 0px; top: 0px;"><div class="slider" style="position: absolute; top: 0px; left: 0px; width: 14px; transform: translate3d(0px, 0px, 0px); contain: strict; height: 20px;"></div></div></div><div role="presentation" aria-hidden="true" style="width: 5px;" class=""></div><textarea data-mprt="6" class="inputarea" wrap="off" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" aria-label="Editor content;Press Alt+F1 for Accessibility Options." role="textbox" aria-multiline="true" aria-haspopup="false" aria-autocomplete="both" style="font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-weight: normal; font-size: 16px; font-feature-settings: &quot;liga&quot;, &quot;calt&quot;; line-height: 28px; letter-spacing: 0px; top: 0px; left: 0px; width: 1px; height: 1px;"></textarea><div class="monaco-editor-background textAreaCover line-numbers" style="position: absolute; top: 0px; left: 0px; width: 1px; height: 1px;"></div><div data-mprt="4" class="overlayWidgets" style="width: 5px;"><div class="accessibilityHelpWidget" role="dialog" aria-hidden="true" widgetid="editor.contrib.accessibilityHelpWidget" style="display: none; position: absolute;"><div role="document"></div></div><div class="monaco-editor-hover hidden" aria-hidden="true" role="presentation" widgetid="editor.contrib.modesGlyphHoverWidget" style="position: absolute;"></div></div><div data-mprt="8" class="minimap slider-mouseover" role="presentation" aria-hidden="true" style="position: absolute; left: 0px; width: 0px; height: 5px;"><div class="minimap-shadow-hidden" style="height: 5px;"></div><canvas width="0" height="7" style="position: absolute; left: 0px; width: 0px; height: 4.66667px;"></canvas><canvas class="minimap-decorations-layer" width="0" height="7" style="position: absolute; left: 0px; width: 0px; height: 4.66667px;"></canvas><div class="minimap-slider" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; width: 0px;"><div class="minimap-slider-horizontal" style="position: absolute; width: 0px; height: 0px;"></div></div></div></div><div data-mprt="2" class="overflowingContentWidgets"><div class="monaco-editor rename-box" widgetid="__renameInputWidget" style="background-color: rgb(37, 37, 38); box-shadow: rgb(0, 0, 0) 0px 2px 8px; color: rgb(204, 204, 204); position: absolute; visibility: hidden; max-width: 1280px;"><input class="rename-input" type="text" aria-label="Rename input. Type new name and press Enter to commit." style="font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-weight: normal; font-size: 16px; background-color: rgb(60, 60, 60); border-width: 0px; border-style: none;"><div class="rename-label" style="font-size: 12.8px;">Enter to Rename, Shift+Enter to Preview</div></div><div class="editor-widget suggest-widget" widgetid="editor.widget.suggestWidget" style="position: absolute; visibility: inherit; max-width: 1280px; top: 28px; left: 0px;" monaco-visible-content-widget="true"><div class="message" aria-hidden="true" style="display: none; background-color: rgb(37, 37, 38); border-color: rgb(69, 69, 69);"></div><div class="tree" aria-hidden="true" style="display: none; background-color: rgb(37, 37, 38); border-color: rgb(69, 69, 69);"><div class="monaco-list list_id_1" tabindex="0" role="tree"><div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden;"><div class="monaco-list-rows" style="transform: translate3d(0px, 0px, 0px); overflow: hidden;"></div><div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div><div role="presentation" aria-hidden="true" class="invisible scrollbar vertical" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; width: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div></div><style type="text/css" media="screen">.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #062f4a; }
+.monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #062f4a; }
+.monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #084066; }
+.monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #084066; }
+.monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; }
+
+				.monaco-drag-image,
+				.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #094771; }
+			
+
+				.monaco-drag-image,
+				.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; }
+			
+.monaco-list.list_id_1 .monaco-list-row.focused { background-color:  #062f4a; }
+.monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color:  #062f4a; }
+.monaco-list.list_id_1 .monaco-list-row.selected { background-color:  #37373d; }
+.monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color:  #37373d; }
+.monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #2a2d2e; }
+
+				.monaco-list.list_id_1.drop-target,
+				.monaco-list.list_id_1 .monaco-list-rows.drop-target,
+				.monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #062f4a !important; color: inherit !important; }
+			
+.monaco-list-type-filter { background-color: #653723 }
+.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }
+.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }
+.monaco-list-type-filter { box-shadow: 1px 1px 1px #000000; }</style></div></div><div class="suggest-status-bar" aria-hidden="true" style="display: none; background-color: rgb(37, 37, 38); border-color: rgb(69, 69, 69);"><span></span><span></span></div><div class="details" aria-hidden="true" style="font-size: 16px; font-weight: normal; font-feature-settings: &quot;liga&quot;, &quot;calt&quot;; display: none; background-color: rgb(37, 37, 38); border-color: rgb(69, 69, 69);"><div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden;"><div class="body" style="overflow: hidden;"><div class="header"><span class="codicon codicon-close" title="Read less...Ctrl+Space" style="height: 28px; width: 28px;"></span><p class="type" style="font-family: &quot;D2 coding&quot;, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace;"></p></div><p class="docs"></p></div><div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div><div role="presentation" aria-hidden="true" class="invisible scrollbar vertical" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; width: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div><div class="shadow"></div><div class="shadow"></div><div class="shadow top-left-corner"></div></div></div></div><div class="monaco-editor-hover hidden" tabindex="0" widgetid="editor.contrib.modesContentHoverWidget" style="position: absolute; visibility: hidden; max-width: 1280px;"><div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden;"><div class="monaco-editor-hover-content" style="overflow: hidden; font-size: 16px; line-height: 28px; max-height: 250px; max-width: 500px;"></div><div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div><div role="presentation" aria-hidden="true" class="invisible scrollbar vertical" style="position: absolute;"><div class="slider" style="position: absolute; top: 0px; left: 0px; width: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;"></div></div><div class="shadow"></div><div class="shadow"></div><div class="shadow top-left-corner"></div></div></div></div><div class="context-view" aria-hidden="true" style="display: none;"></div></div></div></div></div></div></div></div></div><div class="d-grid" style="height: fit-content;"><div class="d-grid h-100" style="grid-template-columns: 1fr 0px 0fr;"><div class="terminals-container d-flex flex-column"><div class="terminal-container d-flex" style="height: 40px; z-index: 1; min-height: 40px; max-height: 40px;"><ul class="list-group list-group-horizontal list-unstyled d-inline-flex flex-grow-1"><li class="d-flex align-items-center" style="min-width: 100px;">강의 터미널</li><li class="d-flex align-items-center active" style="min-width: 100px;">나의 터미널</li><li class="d-flex align-items-center" style="margin-left: -3px;"><span class="d-flex border-0 text-decoration-none" style="cursor: default; color: rgb(0, 255, 221); background-color: rgb(30, 30, 30);"><div class="d-flex"><span class="d-flex" style="cursor: default; color: rgb(0, 255, 221);"><div class="align-self-center justify-content-center align-items-center" style="width: 6px; height: 6px; background-color: rgb(0, 255, 221); border-radius: 5px;"></div>&nbsp; 강의를 이어서 수강하시려면 &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" class="align-self-center justify-content-center align-items-center"><path fill="#0FD" fill-rule="evenodd" d="M12 6L4 10.667 4 1.333z"></path></svg>&nbsp;[재생버튼]을 눌러주세요.</span></div></span></li></ul><div class="d-flex" style="height: 40px;"><div class="flex-grow-1"></div><button type="button" class="border-0 text-decoration-none btn btn-link"><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#919191" fill-rule="evenodd" d="M3.778 6.778v-2c0-.552.4-1 .893-1h10.714c.493 0 .893.448.893 1v2h-12.5zm11.607 9H4.67c-.493 0-.893-.314-.893-.7v-6.3h12.5v6.3c0 .386-.4.7-.893.7zM4 2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H4z"></path></svg></button><div data-framer-component-type="Frame" style="display: block; flex-shrink: 0; user-select: none; pointer-events: none; width: 40px; height: auto; position: relative; background: rgba(0, 0, 0, 0); transform: none;"><div data-framer-component-type="Frame" data-framer-cursor="pointer" class="btn" style="display: flex; flex-shrink: 0; user-select: none; width: 100%; height: 40px; background: rgba(0, 0, 0, 0); cursor: pointer; align-items: center; justify-content: center; transform: none;"><svg width="20" height="21" viewBox="0 0 20 21"><g fill="#919191" fill-rule="evenodd"><path d="M5.2 16.222H3.778c-.552 0-1-.4-1-.893V4.615c0-.493.448-.893 1-.893H5.2v12.5zM16.778 4.615V15.33c0 .493-.314.893-.7.893H7.2v-12.5h8.878c.386 0 .7.4.7.893zM1 16c0 1.104.895 2 2 2h14c1.105 0 2-.896 2-2V4c0-1.105-.895-2-2-2H3c-1.105 0-2 .895-2 2v12z"></path><path d="M14.9 10L9.4 13.5 9.4 6.5z"></path></g></svg></div><div data-framer-component-type="Frame" style="display: block; flex-shrink: 0; user-select: none; width: 300px; height: 400px; right: 39px; bottom: -140px; background: rgba(0, 0, 0, 0); z-index: 6; cursor: default; pointer-events: none; opacity: 0; transform: none;"><div data-framer-component-type="Frame" style="display: block; flex-shrink: 0; user-select: none; pointer-events: none; width: calc(100% - 1px); height: 55px; border-radius: 8px 8px 0px 0px; background: rgb(235, 235, 235); min-height: 55px; transform: none;"><div data-framer-component-type="Frame" data-framer-cursor="pointer" style="display: block; flex-shrink: 0; user-select: none; width: auto; height: auto; background: rgba(0, 0, 0, 0); padding: 10px; cursor: pointer; pointer-events: none; transform: none;"><hr class="my-0" style="width: 12px; border-top: 2px solid rgb(30, 30, 30); pointer-events: none;"></div><div data-framer-component-type="Frame" style="display: flex; flex-shrink: 0; user-select: none; pointer-events: none; width: 100%; height: auto; align-items: center; justify-content: center; text-align: center; background: rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; padding-top: 1px; transform: none;">Console</div><form class="address-container d-flex mt-4 pr-2" style="pointer-events: none;"><button id="btn-refresh" type="button" class="mr-2 btn btn-link" style="pointer-events: none;"><svg width="14" height="14" viewBox="0 0 14 14" class="d-block"><path fill="#919191" fill-rule="evenodd" d="M7 0c1.9 0 3.654.763 4.943 2.057L13.3.7v4.2H9.1l1.854-1.854C9.924 2.01 8.52 1.4 7 1.4 3.912 1.4 1.4 3.913 1.4 7c0 3.088 2.512 5.6 5.6 5.6 3.088 0 5.6-2.512 5.6-5.6H14c0 3.86-3.14 7-7 7s-7-3.14-7-7 3.14-7 7-7"></path></svg></button><input class="px-2 py-0 text-truncate flex-grow-1 form-control" value="/"><button id="btn-clear" type="button" class="ml-2 text-decoration-none btn btn-link" style="pointer-events: none;">Reset</button></form></div><div aria-label="grid" aria-readonly="true" class="ReactVirtualized__Grid" role="grid" tabindex="0" style="box-sizing: border-box; direction: ltr; height: calc(100% - 55px); position: absolute; width: 100%; will-change: transform; overflow: hidden; top: 55px; pointer-events: none;"></div></div></div></div></div><div class="flex-grow-1 term-container d-none" style="height: 138px; padding-left: 3px; background-color: rgb(0, 0, 0); max-height: 138px;"><div class="terminal xterm xterm-theme-default" tabindex="0"><div class="xterm-viewport" style="line-height: 17.9375px; height: 125.562px;"><div class="xterm-scroll-area" style="height: 125.562px;"></div></div><div class="xterm-helpers"><textarea class="xterm-helper-textarea" autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0"></textarea><div class="composition-view"></div><style>.xterm-wide-char{width:15.604166984558105px;}.xterm-normal-char{width:7.802083492279053px;}</style><span aria-hidden="true" style="position: absolute; top: 0px; left: -9999em;">W</span></div><div class="xterm-rows" style="line-height: 17.9375px;"><div style=""><span data-obj-id="25" class="">CodeLion&nbsp;$&nbsp;</span><span data-obj-id="24" class="reverse-video terminal-cursor">&nbsp;</span><span data-obj-id="17" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="18" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="19" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="20" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="21" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="22" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><span data-obj-id="23" class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div></div></div></div><div class="flex-grow-1 term-container" style="height: 138px; padding-left: 3px; max-height: 138px;"><iframe id="TerminalFrame" src="./facebook_files/saved_resource.html" width="100%" height="138" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" data-hj-allow-iframe=""></iframe></div></div><div class="gutter gutter-column"></div><div style="background-color: white;"></div></div><div class="progress-container d-flex flex-column w-100" style="bottom: 0px; background: rgb(31, 31, 31);"><div class="track position-relative"><div id="audio-player" allow="autoplay" style="width: 0px; height: 0px;"><video preload="auto" style="width: 100%; height: 100%;" src="blob:https://www.codelion.net/de50d45d-d9d7-4682-af59-574c6f6c5146"></video></div><div class="runner position-absolute" style="transition: right 100ms ease 0s; background-color: transparent; z-index: 1;"><div style="transform: scale(1); cursor: pointer; height: 8px; display: flex; width: 100%; transition: right 100ms ease 0s;"><div style="height: 8px; width: 100%; border-radius: 0px; background: linear-gradient(to right, rgb(0, 255, 221) 0%, rgb(0, 255, 221) 84.8462%, rgb(56, 58, 67) 84.8462%, rgb(56, 58, 67) 100%); align-self: center;"><div tabindex="0" aria-valuemax="100" aria-valuemin="0" aria-valuenow="84.8461958406252" draggable="false" role="slider" style="position: absolute; z-index: 0; cursor: grab; user-select: none; touch-action: none; height: 8px; width: 8px; border-radius: 1px; background-color: rgb(235, 235, 235); display: flex; justify-content: center; align-items: center; transform: translate(1036.21px, 0px);"><div style="height: 8px; width: 8px; border: 0px; background-color: rgb(56, 58, 67);"></div></div></div></div></div><ol class="list-unstyled mb-0" style="background-color: transparent;"><li class="position-absolute" style="opacity: 0.7; background-color: rgb(235, 235, 235); z-index: 1; left: 0%; right: 98.2106%;"></li><li class="position-absolute" style="opacity: 0.9; background-color: rgb(255, 147, 0); z-index: 1; left: 97.5992%; right: 2.32918%;"></li></ol></div><div class="flex-grow-1 d-flex align-items-center"><div class="w-100 mx-0 row"><div class="p-0 align-items-center col-sm-4"><button type="button" class="play border-0 btn btn-link"><svg width="18" height="19" viewBox="0 0 18 19" class="d-block"><path fill="#FFF" fill-rule="evenodd" d="M18 9L6 16V2z"></path></svg></button><button type="button" class="mute border-0 btn btn-link"><svg width="18" height="18" viewBox="0 0 18 18" class="d-block"><path fill="#EBEBEB" fill-rule="evenodd" d="M8.901 1.064c.315.13.52.438.52.778v13.473a.84.84 0 0 1-1.437.596l-3.616-3.964H1.842A.845.845 0 0 1 1 11.105V6.052c0-.462.379-.842.842-.842h2.526l3.616-3.963a.844.844 0 0 1 .917-.183zm2.204 1.62A5.901 5.901 0 0 1 17 8.578a5.9 5.9 0 0 1-5.895 5.895V12.79a4.215 4.215 0 0 0 4.21-4.21c0-2.321-1.888-4.211-4.21-4.211V2.684zm2.527 5.894a2.529 2.529 0 0 1-2.527 2.527V9.42a.843.843 0 0 0 .842-.843.843.843 0 0 0-.842-.842V6.052a2.53 2.53 0 0 1 2.527 2.526z"></path></svg></button>&nbsp;09:52&nbsp;/&nbsp;<span style="color: rgb(90, 92, 101);">11:38</span></div><div class="p-0 w-100 align-items-center text-center col-sm-4"></div><div class="p-0 pr-1 align-items-center text-right col-sm-4"><button type="button" class="border-0 align-items-center btn_stepSetting btn btn-link"><svg width="18" height="18" viewBox="0 0 18 18" class="d-block"><g fill="none" fill-rule="evenodd"><g fill="#EBEBEB"><g><g><path d="M2 2v14h14.001L16 2H2zm14 16H2c-1.103 0-2-.896-2-2V2C0 .899.897 0 2 0h14c1.103 0 2 .898 2 2v14c0 1.104-.897 2-2 2z" transform="translate(-1885 -1050) translate(54 1032) translate(1831 18)"></path><path d="M9 11c-1.103 0-2-.896-2-2 0-1.101.897-2 2-2s2 .899 2 2c0 1.104-.897 2-2 2zm6-1V8h-2.142c-.094-.362-.238-.704-.425-1.019l1.517-1.516-1.414-1.414-1.517 1.516c-.315-.187-.656-.33-1.019-.425V3H8v2.143c-.363.094-.704.237-1.019.425L5.464 4.05 4.05 5.464l1.517 1.517c-.187.316-.331.657-.425 1.02H3v2h2.142c.094.363.238.704.425 1.019L4.05 12.537l1.414 1.413 1.517-1.516c.315.187.656.33 1.019.425V15h2v-2.143c.363-.094.704-.238 1.019-.425l1.517 1.518 1.414-1.415-1.517-1.516c.187-.316.331-.656.425-1.02H15z" transform="translate(-1885 -1050) translate(54 1032) translate(1831 18)"></path></g></g></g></g></svg></button></div></div></div></div></div><div class="mouse d-inline-block position-absolute on-anim-0" style="top: 183.801px; left: 592.031px; transition: all 0.2s ease 0s;"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div><div class="rnd d-none react-draggable react-draggable-dragged" style="position: absolute; user-select: auto; width: 769px; height: 517px; display: inline-block; top: 11px; left: 7px; cursor: auto; background-color: rgb(255, 255, 255); transform: translate(51px, 10px); max-width: 9.0072e+15px; max-height: 9.0072e+15px; min-width: 200px; min-height: 200px; box-sizing: border-box; flex-shrink: 0;"><div class="h-100 d-flex flex-column position-relative"><div class="handle position-relative"><button type="button" class="position-absolute border-0 btn btn-link"><hr class="my-0"></button><span class="position-absolute w-100 text-center">Mini-browser</span><form class="address-container d-flex mt-4 pr-2"><button type="button" class="mr-2 btn btn-link"><svg width="14" height="14" viewBox="0 0 14 14" class="d-block"><path fill="#919191" fill-rule="evenodd" d="M7 0c1.9 0 3.654.763 4.943 2.057L13.3.7v4.2H9.1l1.854-1.854C9.924 2.01 8.52 1.4 7 1.4 3.912 1.4 1.4 3.913 1.4 7c0 3.088 2.512 5.6 5.6 5.6 3.088 0 5.6-2.512 5.6-5.6H14c0 3.86-3.14 7-7 7s-7-3.14-7-7 3.14-7 7-7"></path></svg></button><input class="px-2 py-0 text-truncate flex-grow-1 form-control" value="/"></form></div><div class="flex-grow-1"><iframe id="WEBOUT247445" width="100%" height="100%" class="iframe-style" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" data-hj-allow-iframe="" src="./facebook_files/saved_resource(1).html"></iframe></div><div class="position-absolute handle"><div class="information d-none"><div class="browserrefresh-btnon-bg"><span class="img-refresh"></span></div><span class="txt">새로고침(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)을 눌러 결과를 확인해보세요!</span></div></div></div><span><div class="" style="position: absolute; user-select: none; width: 100%; height: 10px; top: -5px; left: 0px; cursor: row-resize;"></div><div class="resize-r" style="position: absolute; user-select: none; width: 10px; height: 100%; top: 0px; right: -5px; cursor: col-resize;"></div><div class="resize-b" style="position: absolute; user-select: none; width: 100%; height: 10px; bottom: -5px; left: 0px; cursor: row-resize;"></div><div class="" style="position: absolute; user-select: none; width: 10px; height: 100%; top: 0px; left: -5px; cursor: col-resize;"></div><div class="resize-tr" style="position: absolute; user-select: none; width: 20px; height: 20px; right: -10px; top: -10px; cursor: ne-resize;"></div><div class="resize-br" style="position: absolute; user-select: none; width: 20px; height: 20px; right: -10px; bottom: -10px; cursor: se-resize;"></div><div class="resize-bl" style="position: absolute; user-select: none; width: 20px; height: 20px; left: -10px; bottom: -10px; cursor: sw-resize;"></div><div class="" style="position: absolute; user-select: none; width: 20px; height: 20px; left: -10px; top: -10px; cursor: nw-resize;"></div></span></div><div class="__resizable_base__" style="width: 100%; height: 100%; position: absolute; transform: scale(0, 0); left: 0px; flex: 0 1 0%;"></div></div><div class="slide-container  minimized d-none"><div class="slide position-absolute" style="z-index: 21; width: 1280px; height: 720px; top: auto; bottom: 50px; left: 930px; margin-bottom: 68px; margin-left: 170px; transform: translate(-50%, 50%) scale(0.15);"><img src="./facebook_files/TGl2ZUNvZGluZ1N0ZXBOb2RlOjNnZDk=" alt="" style="width: 100%; height: 100%;"></div></div></div></div></div></div></div><div class="Toastify"></div></div><div id="outdated"></div><script type="text/javascript" src="./facebook_files/outdated-browser-rework.js.다운로드" defer="defer"></script><script type="text/javascript" src="./facebook_files/jquery-1.12.4.min.js.다운로드" async=""></script><script type="text/javascript" src="./facebook_files/iamport.payment-1.1.7.js.다운로드" async=""></script><script type="text/javascript" src="./facebook_files/wcslog.js.다운로드" async=""></script><script type="text/javascript" src="./facebook_files/hrdFrameLoader.js.다운로드"></script><script type="text/javascript">"https:"===location.protocol&&"codelion.net"===location.host&&(location.href="https://www.codelion.net"+location.pathname+location.search+location.hash)</script><script defer="defer">window.dataLayer=window.dataLayer||[],document.addEventListener("DOMContentLoaded",(function(e){try{outdatedBrowserRework({fullscreen:!1,browserSupport:{Chrome:!0,Edge:!1,Safari:!1,"Mobile Safari":!0,Firefox:!0,Opera:!1,IE:!1},requireChromeOnAndroid:!0,isUnknownBrowserOK:!1})}catch(e){console.error("outdatedBrowser",e)}}))</script><script>!function(e){function c(c){for(var d,a,n=c[0],o=c[1],b=c[2],u=0,l=[];u<n.length;u++)a=n[u],Object.prototype.hasOwnProperty.call(t,a)&&t[a]&&l.push(t[a][0]),t[a]=0;for(d in o)Object.prototype.hasOwnProperty.call(o,d)&&(e[d]=o[d]);for(i&&i(c);l.length;)l.shift()();return r.push.apply(r,b||[]),f()}function f(){for(var e,c=0;c<r.length;c++){for(var f=r[c],d=!0,a=1;a<f.length;a++){var o=f[a];0!==t[o]&&(d=!1)}d&&(r.splice(c--,1),e=n(n.s=f[0]))}return e}var d={},a={11:0},t={11:0},r=[];function n(c){if(d[c])return d[c].exports;var f=d[c]={i:c,l:!1,exports:{}};return e[c].call(f.exports,f,f.exports,n),f.l=!0,f.exports}n.e=function(e){var c=[];a[e]?c.push(a[e]):0!==a[e]&&{4:1,13:1,15:1,16:1,24:1,30:1,84:1}[e]&&c.push(a[e]=new Promise((function(c,f){for(var d="static/css/"+({}[e]||e)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"31d6cfe0",3:"31d6cfe0",4:"a2d9b873",5:"31d6cfe0",6:"31d6cfe0",7:"31d6cfe0",8:"31d6cfe0",9:"31d6cfe0",13:"6c7f99f2",14:"31d6cfe0",15:"17b58a5f",16:"00c80905",17:"31d6cfe0",18:"31d6cfe0",19:"31d6cfe0",20:"31d6cfe0",21:"31d6cfe0",22:"31d6cfe0",23:"31d6cfe0",24:"a2d9b873",25:"31d6cfe0",26:"31d6cfe0",27:"31d6cfe0",28:"31d6cfe0",29:"31d6cfe0",30:"00c80905",31:"31d6cfe0",32:"31d6cfe0",33:"31d6cfe0",34:"31d6cfe0",35:"31d6cfe0",36:"31d6cfe0",37:"31d6cfe0",38:"31d6cfe0",39:"31d6cfe0",40:"31d6cfe0",41:"31d6cfe0",42:"31d6cfe0",43:"31d6cfe0",44:"31d6cfe0",45:"31d6cfe0",46:"31d6cfe0",47:"31d6cfe0",48:"31d6cfe0",49:"31d6cfe0",50:"31d6cfe0",51:"31d6cfe0",52:"31d6cfe0",53:"31d6cfe0",54:"31d6cfe0",55:"31d6cfe0",56:"31d6cfe0",57:"31d6cfe0",58:"31d6cfe0",59:"31d6cfe0",60:"31d6cfe0",61:"31d6cfe0",62:"31d6cfe0",63:"31d6cfe0",64:"31d6cfe0",65:"31d6cfe0",66:"31d6cfe0",67:"31d6cfe0",68:"31d6cfe0",69:"31d6cfe0",70:"31d6cfe0",71:"31d6cfe0",72:"31d6cfe0",73:"31d6cfe0",74:"31d6cfe0",75:"31d6cfe0",76:"31d6cfe0",77:"31d6cfe0",78:"31d6cfe0",79:"31d6cfe0",80:"31d6cfe0",81:"31d6cfe0",82:"31d6cfe0",83:"31d6cfe0",84:"cf13eec6",85:"31d6cfe0",86:"31d6cfe0",87:"31d6cfe0",88:"31d6cfe0",89:"31d6cfe0",90:"31d6cfe0",91:"31d6cfe0",92:"31d6cfe0",93:"31d6cfe0",94:"31d6cfe0",95:"31d6cfe0",96:"31d6cfe0",97:"31d6cfe0",98:"31d6cfe0",99:"31d6cfe0",100:"31d6cfe0",101:"31d6cfe0",102:"31d6cfe0",103:"31d6cfe0",104:"31d6cfe0",105:"31d6cfe0",106:"31d6cfe0",107:"31d6cfe0",108:"31d6cfe0",109:"31d6cfe0",110:"31d6cfe0",111:"31d6cfe0",112:"31d6cfe0",113:"31d6cfe0",114:"31d6cfe0",115:"31d6cfe0",116:"31d6cfe0",117:"31d6cfe0",118:"31d6cfe0",119:"31d6cfe0",120:"31d6cfe0",121:"31d6cfe0",122:"31d6cfe0",123:"31d6cfe0",124:"31d6cfe0",125:"31d6cfe0",126:"31d6cfe0",127:"31d6cfe0",128:"31d6cfe0",129:"31d6cfe0",130:"31d6cfe0",131:"31d6cfe0",132:"31d6cfe0",133:"31d6cfe0",134:"31d6cfe0",135:"31d6cfe0",136:"31d6cfe0",137:"31d6cfe0",138:"31d6cfe0",139:"31d6cfe0",140:"31d6cfe0",141:"31d6cfe0",142:"31d6cfe0",143:"31d6cfe0",144:"31d6cfe0",145:"31d6cfe0",146:"31d6cfe0",147:"31d6cfe0",148:"31d6cfe0",149:"31d6cfe0",150:"31d6cfe0",151:"31d6cfe0",152:"31d6cfe0",153:"31d6cfe0",154:"31d6cfe0",155:"31d6cfe0",156:"31d6cfe0",157:"31d6cfe0",158:"31d6cfe0"}[e]+".chunk.css",t=n.p+d,r=document.getElementsByTagName("link"),o=0;o<r.length;o++){var b=(i=r[o]).getAttribute("data-href")||i.getAttribute("href");if("stylesheet"===i.rel&&(b===d||b===t))return c()}var u=document.getElementsByTagName("style");for(o=0;o<u.length;o++){var i;if((b=(i=u[o]).getAttribute("data-href"))===d||b===t)return c()}var l=document.createElement("link");l.rel="stylesheet",l.type="text/css",l.onload=c,l.onerror=function(c){var d=c&&c.target&&c.target.src||t,r=new Error("Loading CSS chunk "+e+" failed.\n("+d+")");r.code="CSS_CHUNK_LOAD_FAILED",r.request=d,delete a[e],l.parentNode.removeChild(l),f(r)},l.href=t,document.getElementsByTagName("head")[0].appendChild(l)})).then((function(){a[e]=0})));var f=t[e];if(0!==f)if(f)c.push(f[2]);else{var d=new Promise((function(c,d){f=t[e]=[c,d]}));c.push(f[2]=d);var r,o=document.createElement("script");o.charset="utf-8",o.timeout=120,n.nc&&o.setAttribute("nonce",n.nc),o.src=function(e){return n.p+"static/js/"+({}[e]||e)+"."+{0:"18aaf99e",1:"8b5bcf05",2:"a5a01c38",3:"aba609ca",4:"8313d2c8",5:"23b3fa5c",6:"ca7f4b69",7:"ffab868c",8:"db90d7b2",9:"d05f86fc",13:"ac0a337e",14:"29f70176",15:"acf9ba8d",16:"7de049db",17:"9733bc38",18:"9ebed25a",19:"67bfec47",20:"432eb333",21:"9c54222f",22:"564de303",23:"5eb08a48",24:"87e07a37",25:"bb9f211d",26:"9901f240",27:"37729207",28:"6807795c",29:"4494f7b3",30:"f922c7fa",31:"135cbe07",32:"98893a51",33:"f45c22eb",34:"d613b717",35:"91af04a1",36:"f15e795c",37:"c836361d",38:"f8ac1850",39:"aa131dfa",40:"8345c576",41:"6cf1ab39",42:"b3ef22fc",43:"536b3a33",44:"d93b9cef",45:"d40ced2b",46:"c1c69a00",47:"00e2cfdc",48:"e203a778",49:"29ed62f7",50:"07f8ffa9",51:"c771011b",52:"365f0794",53:"4eff34a7",54:"f767a618",55:"73173bf2",56:"2dab5f44",57:"14828728",58:"4a955a31",59:"eec9a0c5",60:"9b40616c",61:"7ad17fd0",62:"5004fadb",63:"d48b28bd",64:"c9a4914d",65:"388050d1",66:"6661d232",67:"870f8d35",68:"13bf27ce",69:"c1c1f5a1",70:"5bad5ab8",71:"ad441a60",72:"31c467cb",73:"b154e0f0",74:"bfd46320",75:"2782fa5e",76:"6fbe9586",77:"80b8f888",78:"76704765",79:"9d7be14c",80:"9291aaf8",81:"f68b1676",82:"4201bf7d",83:"f28b80c0",84:"b4a09904",85:"e3f91600",86:"ccda53a1",87:"c8393fdc",88:"08f32933",89:"63b8050a",90:"346f19cf",91:"34db4fcc",92:"fa9778f4",93:"31adad5d",94:"75376cf8",95:"4e3eaac4",96:"16fe1576",97:"032f4e6a",98:"5eeba154",99:"d94f6a45",100:"e5e486fb",101:"fa13b983",102:"02923642",103:"589a3067",104:"bb865a52",105:"d2bbe482",106:"55683bd1",107:"bf86c8b4",108:"30ea003d",109:"feebee88",110:"5f30a991",111:"f7b622c1",112:"39e9182d",113:"ce64551f",114:"7058700d",115:"3bc0007c",116:"cc5681d5",117:"bba8f5e1",118:"9e9ec62e",119:"3dcf6269",120:"28293662",121:"a2b55d42",122:"040b05ac",123:"6ef00f59",124:"98e92c9f",125:"31bbb2eb",126:"808fe40b",127:"dc927e94",128:"dff96ec6",129:"434183ea",130:"1ee5b560",131:"ae08760a",132:"c9ccaa9a",133:"f7187b51",134:"96ccd149",135:"382994b9",136:"d6828496",137:"9ab98c73",138:"8d5c6c9a",139:"9b0f14b8",140:"1b569001",141:"3431542e",142:"63b37213",143:"bca29088",144:"47d5febe",145:"ec240986",146:"ca1f553c",147:"372af507",148:"d265fcf5",149:"e14d2ae7",150:"3edec304",151:"f0af1592",152:"be38121a",153:"84d1b134",154:"8c0cb6b6",155:"177a1c19",156:"f6bb362e",157:"d31a0d1d",158:"e089d23a"}[e]+".chunk.js"}(e);var b=new Error;r=function(c){o.onerror=o.onload=null,clearTimeout(u);var f=t[e];if(0!==f){if(f){var d=c&&("load"===c.type?"missing":c.type),a=c&&c.target&&c.target.src;b.message="Loading chunk "+e+" failed.\n("+d+": "+a+")",b.name="ChunkLoadError",b.type=d,b.request=a,f[1](b)}t[e]=void 0}};var u=setTimeout((function(){r({type:"timeout",target:o})}),12e4);o.onerror=o.onload=r,document.head.appendChild(o)}return Promise.all(c)},n.m=e,n.c=d,n.d=function(e,c,f){n.o(e,c)||Object.defineProperty(e,c,{enumerable:!0,get:f})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,c){if(1&c&&(e=n(e)),8&c)return e;if(4&c&&"object"==typeof e&&e&&e.__esModule)return e;var f=Object.create(null);if(n.r(f),Object.defineProperty(f,"default",{enumerable:!0,value:e}),2&c&&"string"!=typeof e)for(var d in e)n.d(f,d,function(c){return e[c]}.bind(null,d));return f},n.n=function(e){var c=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(c,"a",c),c},n.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},n.p="https://www.codelion.net/",n.oe=function(e){throw console.error(e),e};var o=this["webpackJsonpcodelion-front"]=this["webpackJsonpcodelion-front"]||[],b=o.push.bind(o);o.push=c,o=o.slice();for(var u=0;u<o.length;u++)c(o[u]);var i=b;f()}([])</script><script src="./facebook_files/12.0470e1d1.chunk.js.다운로드"></script><script src="./facebook_files/main.9043b0ac.chunk.js.다운로드"></script><div class="monaco-aria-container"><div class="monaco-alert" role="alert" aria-atomic="true"></div><div class="monaco-status" role="status" aria-atomic="true"></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","372844676885674");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=372844676885674&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" charset="UTF-8" src="./facebook_files/kp.js.다운로드"></script><script type="text/javascript" id="">"undefined"!==typeof FB&&FB.Event.subscribe("edge.create",function(a){dataLayer.push({event:"socialTrigger",socialnetwork:"Facebook",socialAction:"like",socialTarget:a})});</script><script type="text/javascript" id="">if(!wcs_add)var wcs_add={};wcs_add.wa="s_4372911bb685";if(!_nasa)var _nasa={};wcs.inflow();wcs_do(_nasa);_nasa={};</script>
+<script type="text/javascript" id="">try{hj("identify",google_tag_manager["GTM-K2SMZTD"].macro(6),{user_name:google_tag_manager["GTM-K2SMZTD"].macro(7),user_hashid:google_tag_manager["GTM-K2SMZTD"].macro(8)})}catch(a){};</script><script type="text/javascript" id="">try{hj("trigger","ViewStep",{user_name:google_tag_manager["GTM-K2SMZTD"].macro(11),user_hashid:google_tag_manager["GTM-K2SMZTD"].macro(12)})}catch(a){};</script><script type="text/javascript" id="">try{hj("vpv",google_tag_manager["GTM-K2SMZTD"].macro(14))}catch(a){};</script>
+<script type="text/javascript" id="">kakaoPixel("7699561970871324666").pageView();</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="./facebook_files/box-4924254a9ce4dc9b959b6e4a9b662d60.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script type="text/javascript" id="">try{hj("trigger",google_tag_manager["GTM-K2SMZTD"].macro(21))}catch(a){};</script><script type="text/javascript" id="">try{hj("trigger",google_tag_manager["GTM-K2SMZTD"].macro(27))}catch(a){};</script><script type="text/javascript" id="">try{hj("vpv",google_tag_manager["GTM-K2SMZTD"].macro(30))}catch(a){};</script><script type="text/javascript" id="">try{hj("vpv",google_tag_manager["GTM-K2SMZTD"].macro(34))}catch(a){};</script><script type="text/javascript" id="">try{hj("vpv",google_tag_manager["GTM-K2SMZTD"].macro(39))}catch(a){};</script><script type="text/javascript" id="">try{hj("vpv",google_tag_manager["GTM-K2SMZTD"].macro(42))}catch(a){};</script><script type="text/javascript" id="">try{hj("trigger",google_tag_manager["GTM-K2SMZTD"].macro(45))}catch(a){};</script><script type="text/javascript" id="">try{hj("trigger",google_tag_manager["GTM-K2SMZTD"].macro(49))}catch(a){};</script></body></html>
